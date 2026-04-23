@@ -5,7 +5,7 @@
 *--------------------------------------------------------*
 * Objetivo do Programa: Gestão de carga em logística     *
 * Data - 23/04/2026                                      * 
-* Autor: Hellen Dayane Lisboa                            *
+* Autor: Hellen Dayane Lisboa                             *
 *--------------------------------------------------------*/
 
 #include <stdio.h>
